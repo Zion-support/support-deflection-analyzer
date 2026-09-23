@@ -22,5 +22,8 @@ Measure and grow ticket deflection from docs and bots.
 - [SLA Forecast Guardian](https://github.com/Zion-support/sla-forecast-guardian) — https://ziontechgroup.com/sla-forecast-guardian/
 - [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/
 
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [MSP & Partner Ecosystem](https://github.com/Zion-support/zion-network/blob/main/network/msp-partner-ecosystem.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
 ---
 © 2026 Zion Tech Group — https://ziontechgroup.com
